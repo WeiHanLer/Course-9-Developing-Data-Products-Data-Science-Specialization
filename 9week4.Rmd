@@ -1,0 +1,34 @@
+---
+title: "Incredibly Simple Presentation"
+author: "Ler Wei Han"
+date: "August 20, 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+This presentation is part of the assignment for week 4 of Coursera's Developing Data Product course. This presentation will showcase a Shiny app developed to discover the k-means cluster of the set of cars across different variables. 
+
+
+
+## Application
+
+The app can be found at https://lerweihan.shinyapps.io/shiny/
+
+## R code
+Overview of data
+```{r cars, echo = T,results='hide'}
+summary(mtcars)
+```
+
+## Output
+
+```{r}
+summary(mtcars)
+
+```
+
