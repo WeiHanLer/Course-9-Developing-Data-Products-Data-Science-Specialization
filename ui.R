@@ -7,6 +7,8 @@
 #    http://shiny.rstudio.com/
 #
 
+library(shiny)
+trend_description <- "Documentation can be found at:https://github.com/whyler12/ddp"
 pageWithSidebar(
   headerPanel('Cars K-means clustering'),
   sidebarPanel(
@@ -17,6 +19,8 @@ pageWithSidebar(
                  min = 1, max = 9)
   ),
   mainPanel(
-    plotOutput('plot1')
+    plotOutput('plot1'),
+    textOutput(outputId = "desc")
   )
+  
 )
