@@ -1,7 +1,7 @@
-Data Science Specialization-Course 9 Developing Data Products  Week 4 Programming Assignment
-https://lerweihan.shinyapps.io/shinyddp4/
+#Data Science Specialization-Course 9 Developing Data Products  Week 4 Programming Assignment
+FInal Product:https://lerweihan.shinyapps.io/shinyddp4/
 
-Developing a RShiny Application
+##The purpose of the asignment is to develop a RShiny Application on te following prompt:
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 Deploy the application on Rstudio's shiny server
 Share the application link by pasting it into the provided text box
