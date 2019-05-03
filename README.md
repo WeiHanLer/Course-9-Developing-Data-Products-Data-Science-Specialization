@@ -2,7 +2,7 @@
 
 Final Product: https://lerweihan.shinyapps.io/shinyddp4/
 
-## The purpose of the asignment is to develop a RShiny Application on te following prompt:
+## The purpose of the asignment is to develop a RShiny Application on the following prompt:
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 Deploy the application on Rstudio's shiny server
 Share the application link by pasting it into the provided text box
